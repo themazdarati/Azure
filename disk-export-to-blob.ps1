@@ -8,7 +8,7 @@
 .PARAMETER resourceGroupName
 	Specifies the name of your resource group where managed is created
 .PARAMETER diskName
-	Specifies the the managed disk name to be export
+	Specifies the managed disk name to be export
 .PARAMETER sasExpiryDuration
 	Specifies the Shared Access Signature (SAS) expiry duration in seconds (default 3600 seconds)
 .PARAMETER storageAccountName
